@@ -1,0 +1,26 @@
+🤔 Descripción.
+Este proyecto analiza datos de ventas y costos de envío de 4 tiendas con el objetivo de:
+a) Identificar el desempeño en ventas de cada tienda.
+b) Determinar los productos más vendidos en cada tienda.
+c) Evaluar la rentabilidad en función de ventas y costos de envío.
+d) Sugerir qué tienda es la más fuerte y cuál debería cerrarse.
+Se utilizan gráficos para visualizar patrones de venta y tomar decisiones estratégicas.
+
+📂 Datos utilizados
+Los datos fueron extraídos de registros de ventas de las 4 tiendas, incluyendo:
+1. Producto: Nombre del producto vendido.
+2. Cantidad Vendida: Número de unidades vendidas.
+3. Costo de Envío: Gasto logístico por cada transacción.
+4. Tienda: Identificador de la sucursal.
+
+🎯 Objetivo de los gráficos
+Se generan 3 gráficos principales con Matplotlib:
+Top 5 productos más vendidos por tienda
+Muestra los productos líderes en ventas para cada tienda.
+Comparativa de ventas totales entre tiendas
+Permite visualizar qué tienda vende más en términos de unidades.
+Relación entre costo de envío y ventas
+Ayuda a identificar si los altos costos de envío afectan la rentabilidad.
+
+📌 Autor
+Proyecto elaborado por Daniel Garcia para análisis de rentabilidad y optimización de puntos de venta.
